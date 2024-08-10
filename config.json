@@ -1,5 +1,5 @@
 {
-    "bot_api": "7469242394:AAHtC-iNGfB_kgLmlLIISW05oAOJ4l0yWGc",
+    "bot_api": "",
     
     "admin_id": [
         
@@ -11,8 +11,8 @@
     
     
     "Master": "5086068355",
-    "engine_id" : "9169474ab7fdf45b1",
-    "google_api" : "AIzaSyCfQjpC8pv7HKGoGTMKcReiIHTFmPvAZ1s",
+    "engine_id" : "",
+    "google_api" : "",
     
     
     "greetings": "Hello, welcome to our bot!"
